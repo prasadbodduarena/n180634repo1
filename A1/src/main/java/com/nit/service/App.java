@@ -32,4 +32,7 @@ public class App
 
     return y;		  
    }
+   public String addMessage() {
+	   return "Food is Awesome today";
+   }
 }
